@@ -1,3 +1,9 @@
+python-novaclient (2.6.6-0mit2) oneiric; urgency=low
+
+  * Bump version for PPA rebuild.
+
+ -- Kiall Mac Innes <kiall@managedit.ie>  Sat, 22 Oct 2011 06:56:57 +0100
+
 python-novaclient (2.6.6-0mit1) oneiric; urgency=low
 
   * New upstream version (96e04e64e9305cf71955cd7b311a17cbf83f8bff)
